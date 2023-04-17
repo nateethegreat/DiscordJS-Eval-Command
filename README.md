@@ -7,4 +7,5 @@
 
 > Remember to replace Your-User-ID in 'eval-command.js' with your Discord User ID.
 
-Code brought to you by [Mabu Development](https://mabu.tideter.com/) (Owned By Apachie Studios)
+Code brought to you by [Mabu Development](https://mabu.tideter.com/).
+Sub-group of Adaptive Studios.
